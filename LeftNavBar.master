@@ -1,0 +1,100 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/TopNavBar.Master" AutoEventWireup="true" CodeBehind="LeftNavBar.master.cs" Inherits="StoreCreator.LeftNavBar" %>
+ <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server"> 
+ <asp:ContentPlaceHolder ID="head" runat="server"> 
+ </asp:ContentPlaceHolder>
+ </asp:Content> 
+ <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server"> 
+
+
+
+
+
+     <asp:Panel ID="pnlProducts" runat="server" >
+
+    <nav class="navbar navbar-default sidebar" role="navigation"   >
+    <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-sidebar-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>      
+    </div>
+    <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+
+
+                        <li>
+                      <a href="FrontEndSearchProducts.aspx" class="dropdown-toggle" id="ProductPromotions" runat="server" data-toggle="dropdown">Product Categories<span style="font-size:16px;" runat="server" id="spanProductPromotions" class="pull-right hidden-xs showopacity glyphicon glyphicon-user"></span></a>
+                      <ul >
+
+                         <li><h4>Men</h4></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Male&Category=Shirts">Shirts</a></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Male&Category=Pants">Pants</a></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Male&Category=Shoes">Shoes</a></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Male&Category=Socks">Socks</a></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Male&Category=Sneakers">Sneakers</a></li>
+
+                          <li><h4>Female</h4></li>
+
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Female&Category=Shirts">Shirts</a></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Female&Category=Pants">Pants</a></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Female&Category=Shoes">Shoes</a></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Female&Category=Socks">Socks</a></li>
+                        <li><a href="FrontEndSearchProducts.aspx?Gender=Female&Category=Sneakers">Sneakers</a></li>
+
+
+          </ul>
+       </ul>
+    </div>
+  </div>
+</nav>
+
+         </asp:Panel>
+
+
+
+
+           <asp:Panel ID="pnlMyProfile" runat="server" >
+
+               
+        <nav class="navbar navbar-default sidebar" role="navigation"  >
+    <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-sidebar-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>      
+    </div>
+    <div class="collapse navbar-collapse" id="Div2">
+      <ul class="nav navbar-nav">
+        <li ><a href="MyProfile.aspx" id="A1" runat="server">Personal Information<span id="spanMyProfile" runat="server" style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>                  
+        <li ><a href="MyOrders.aspx" id="A2" runat="server">My Orders<span id="spanMyOrders" runat="server" style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>                  
+         <li ><a href="InsertStoreproducts.aspx" id="MyStore" runat="server">My Store<span id="spanMyStore" runat="server" style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>                  
+
+     </ul>
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+               </asp:Panel>
+
+
+
+
+
+
+
+
+
+
+ <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"> 
+ </asp:ContentPlaceHolder>
+ </asp:Content> 

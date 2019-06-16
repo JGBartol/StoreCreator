@@ -1,0 +1,21 @@
+﻿
+        .StarCss { 
+            background-image: url();
+            height:24px;
+            width:24px;
+        }
+        .FilledStarCss {
+            background-image: url("Icons/FullStar.png");
+            height:24px;
+            width:24px;
+        }
+        .EmptyStarCss {
+            background-image: url("Icons/EmptStar.png");
+            height:24px;
+            width:24px;
+        }
+        .WaitingStarCss {
+            background-image: url(/Image/waitingstar.png);
+            height:24px;
+            width:24px;
+        }

@@ -1,0 +1,41 @@
+Url: http://localhost:16399/favicon.ico
+UserAgent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+UserHostAddress: ::1
+RequestType: GET
+QueryString: 
+Headers :Connection=keep-alive&Accept=text%2fhtml%2capplication%2fxhtml%2bxml%2capplication%2fxml%3bq%3d0.9%2c*%2f*%3bq%3d0.8&Accept-Encoding=gzip%2c+deflate&Accept-Language=en-US%2cen%3bq%3d0.5&Cookie=LogInCookie%3dUserName%3djdawg05%26PassWord%3dpassword%3b+SaveSearchCriteria%3dtxtWagerStarts%3d22%26txtWagerEnds%3d12%26Logic%3dAny+Logic%26LogicArgument%3d12%26IsOpenBet%3dTrue%26Team%3dAtlanta+Falcons%26Team%3dBaltimore+Ravens%26Team%3dCarolina+Panthers%26Team%3dChicago+Bears%26Team%3dCincinnati+Bengals%26Team%3dCleveland+Browns%26Team%3dDallas+Cowboys%3b+SavePlayerSearchCriteria%3dtxtWagerStarts%3d%26txtWagerEnds%3d%26Logic%3dAny+Logic%26LogicArgument%3d%26IsOpenBet%3dTrue%26Team%3dSelect+Team%3b+TestCookie%3d1&Host=localhost%3a16399&User-Agent=Mozilla%2f5.0+(Windows+NT+6.1%3b+WOW64%3b+rv%3a50.0)+Gecko%2f20100101+Firefox%2f50.0&DNT=1
+12/4/2016 5:07:30 PM
+ 
+NT=1
+12/4/2016 5:07:30 PM
+ 
+16399%2fLogIn.aspx&User-Agent=Mozilla%2f5.0+(Windows+NT+6.1%3b+WOW64%3b+rv%3a50.0)+Gecko%2f20100101+Firefox%2f50.0&Upgrade-Insecure-Requests=1
+12/4/2016 5:05:49 PM
+ 
+efox%2f50.0&Upgrade-Insecure-Requests=1&DNT=1
+12/4/2016 1:06:55 PM
+ 
+ 1:06:54 PM
+ 
+f20100101+Firefox%2f50.0&Upgrade-Insecure-Requests=1
+12/4/2016 1:06:41 PM
+ 
+equests=1
+12/4/2016 1:05:44 PM
+ 
+50.0&DNT=1
+12/4/2016 1:05:12 PM
+ 
+ecko%2f20100101+Firefox%2f50.0&Upgrade-Insecure-Requests=1
+11/26/2016 4:39:31 PM
+ 
+ndows+NT+6.1%3b+WOW64%3b+rv%3a50.0)+Gecko%2f20100101+Firefox%2f50.0&Upgrade-Insecure-Requests=1
+11/21/2016 10:20:24 AM
+ 
+10:19:55 AM
+ 
+0:19:16 AM
+ 
+gent=Mozilla%2f5.0+(Windows+NT+6.1%3b+WOW64%3b+rv%3a50.0)+Gecko%2f20100101+Firefox%2f50.0&Upgrade-Insecure-Requests=1
+11/21/2016 10:15:46 AM
+ 

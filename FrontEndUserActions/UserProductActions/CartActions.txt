@@ -1,0 +1,11 @@
+UserId: 1
+ProductId: 60
+Quantity: 2
+12/4/2016 1:05:06 PM
+ 
+
+
+6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2715.0 Safari/537.36
+Quantity: 
+4/22/2016 3:21:58 PM
+ 
